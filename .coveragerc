@@ -1,0 +1,3 @@
+[run]
+source = horm
+omit = horm/test*
